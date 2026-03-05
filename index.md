@@ -50,4 +50,4 @@ If this policy changes, the updated version will be posted at this URL.
 
 ## Contact
 
-For any privacy questions: ctzooannou@gmail.com
+For any privacy questions: ctzoannou@gmail.com
